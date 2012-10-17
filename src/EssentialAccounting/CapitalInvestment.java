@@ -1,5 +1,5 @@
 /*
- * Calulates diffent Capital Investment formulas
+ * Calculates different Capital Investment formulas
  */
 package EssentialAccounting;
 

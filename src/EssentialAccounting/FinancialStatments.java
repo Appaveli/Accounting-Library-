@@ -1,5 +1,5 @@
 /*
- * Calulates diffent Financial Statement formulas
+ * Calculates different Financial Statement formulas
  */
 package EssentialAccounting;
 

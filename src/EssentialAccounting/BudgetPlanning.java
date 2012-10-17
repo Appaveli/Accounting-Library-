@@ -1,5 +1,5 @@
 /*
- *  Calulates diffent Budget Planning formulas
+ *  Calculates different Budget Planning formulas
  */
 package EssentialAccounting;
 

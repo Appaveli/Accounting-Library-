@@ -1,5 +1,5 @@
 /*
- * Calulates diffent pricing formulas
+ * Calculates different pricing formulas
  */
 package EssentialAccounting;
 

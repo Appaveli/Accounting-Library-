@@ -1,5 +1,5 @@
 /*
- * Calulates diffent Cost-Volume Profit formulas
+ * Calculates different Cost-Volume Profit formulas
  */
 package EssentialAccounting;
 

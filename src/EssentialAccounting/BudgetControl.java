@@ -1,5 +1,5 @@
 /*
- Calulates diffent Budget Control formulas
+ Calculates different Budget Control formulas
  */
 package EssentialAccounting;
 
