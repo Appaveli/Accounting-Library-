@@ -120,7 +120,7 @@ public class CostVolumeProfit
      * @param BreakEven: Break even sales
      * @return Margin Safety In Dollars = Actual expected sales - Break even sales
      */
-    public static float marginSafetyDollars(float Sales, float BreakEven)
+    public static float MarginSafetyDollars(float Sales, float BreakEven)
     {
         return (Sales - BreakEven);
     }

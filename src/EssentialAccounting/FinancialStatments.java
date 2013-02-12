@@ -17,7 +17,7 @@ public class FinancialStatments
      */
     public static float Assets(float liabilites, float StockEquity)
     {
-        return liabilites / StockEquity;
+        return liabilites + StockEquity;
         
     }
     
